@@ -1,0 +1,19 @@
+{
+  "name": "url_shorner_service",
+  "version": "1.0.0",
+  "description": "This is to created to shorten the url that is required",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarshpurbey/url_shortener.git"
+  },
+  "author": "Utkarsh Purbey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Utkarshpurbey/url_shortener/issues"
+  },
+  "homepage": "https://github.com/Utkarshpurbey/url_shortener#readme"
+}
