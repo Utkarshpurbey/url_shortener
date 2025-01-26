@@ -4,7 +4,8 @@
   "description": "This is to created to shorten the url that is required",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index"
   },
   "repository": {
     "type": "git",
